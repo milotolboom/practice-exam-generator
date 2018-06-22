@@ -1,0 +1,341 @@
+[
+  {
+    "questionId": 1,
+    "questionText": "Vraag nummer 1 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 2,
+    "questionText": "Vraag nummer 2 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 3,
+    "questionText": "Vraag nummer 3 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 4,
+    "questionText": "Vraag nummer 4 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 5,
+    "questionText": "Vraag nummer 5 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "multipleChoice"
+  },
+  {
+    "questionId": 6,
+    "questionText": "Vraag nummer 6 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 7,
+    "questionText": "Vraag nummer 7 over ASR",
+    "categories": [
+      "ASR",
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 8,
+    "questionText": "Vraag nummer 8 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 9,
+    "questionText": "Vraag nummer 9 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 10,
+    "questionText": "Vraag nummer 10 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 11,
+    "questionText": "Vraag nummer 11 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 12,
+    "questionText": "Vraag nummer 12 over DCAR",
+    "categories": [
+      "DCAR",
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 13,
+    "questionText": "Vraag nummer 13 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 14,
+    "questionText": "Vraag nummer 14 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 15,
+    "questionText": "Vraag nummer 15 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 16,
+    "questionText": "Vraag nummer 16 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "multipleChoice"
+  },
+  {
+    "questionId": 17,
+    "questionText": "Vraag nummer 17 over ATAM",
+    "categories": [
+      "ATAM",
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 18,
+    "questionText": "Vraag nummer 18 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 19,
+    "questionText": "Vraag nummer 19 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 20,
+    "questionText": "Vraag nummer 20 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 21,
+    "questionText": "Vraag nummer 21 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 22,
+    "questionText": "Vraag nummer 22 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 23,
+    "questionText": "Vraag nummer 23 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 24,
+    "questionText": "Vraag nummer 24 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 25,
+    "questionText": "Vraag nummer 25 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 26,
+    "questionText": "Vraag nummer 26 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 27,
+    "questionText": "Vraag nummer 27 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "multipleChoice"
+  },
+  {
+    "questionId": 28,
+    "questionText": "Vraag nummer 28 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 29,
+    "questionText": "Vraag nummer 29 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 30,
+    "questionText": "Vraag nummer 30 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 31,
+    "questionText": "Vraag nummer 31 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 32,
+    "questionText": "Vraag nummer 32 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 33,
+    "questionText": "Vraag nummer 33 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 34,
+    "questionText": "Vraag nummer 34 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 35,
+    "questionText": "Vraag nummer 35 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 36,
+    "questionText": "Vraag nummer 36 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 37,
+    "questionText": "Vraag nummer 37 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 38,
+    "questionText": "Vraag nummer 38 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "multipleChoice"
+  },
+  {
+    "questionId": 39,
+    "questionText": "Vraag nummer 39 over ASR",
+    "categories": [
+      "ASR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 40,
+    "questionText": "Vraag nummer 40 over DCAR",
+    "categories": [
+      "DCAR"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 41,
+    "questionText": "Vraag nummer 41 over ATAM",
+    "categories": [
+      "ATAM"
+    ],
+    "type": "OpenQuestion"
+  },
+  {
+    "questionId": 42,
+    "questionText": "Vraag nummer 42 over QA",
+    "categories": [
+      "QA"
+    ],
+    "type": "OpenQuestion"
+  }
+]
